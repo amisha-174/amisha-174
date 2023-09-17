@@ -6,7 +6,7 @@
 
 👯 I’m looking to collaborate on **Human Action Recognition**
 
-🌱 I’m currently learning **Deep Learning, GAN, CNN, RNN**
+🌱 I’m currently learning **Deep Learning, GAN, CNN,  RNN**
 
 💬 Ask me about **Machine Learning, Data Science, Statistics**
 
