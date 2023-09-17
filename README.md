@@ -1,4 +1,4 @@
-[![MasterHead](https://i.makeagif.com/media/10-18-2016/VIxxNm.gif)
+[![MasterHead](https://cdn.pnghd.pics/data/10/background-gif-hd-58.gif)
 <h1 align="center">Hi 👋, I'm Amisha Sonoone</h1>
 <h3 align="center">A passionate AI Engineer and Data Science Enthusiast from India</h3>
 <img align="right" alt="Coding" width="400" src="https://www.sciencenews.org/wp-content/uploads/2023/04/040823_chatgpt_feat.gif">
